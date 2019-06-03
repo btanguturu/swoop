@@ -5,6 +5,26 @@
   * Outline Elements
 */
 
-* {
+/* * {
     outline: 1px dotted black;
+} */
+
+/* Global. Site. Base. Universal. */
+
+/* Homepage */
+
+.home{
+  background: teal;
+}
+
+/* About */
+
+.about{
+  background: turquoise;
+}
+
+/* Contact */
+
+.contact{
+  background: thistle;
 }
