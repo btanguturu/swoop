@@ -54,3 +54,10 @@ nav li a{
 .portfolio{
   background: tomato;
 }
+
+figure{
+  width: 200px;
+  padding: 1em;
+  background: red;
+  display: inline-block;
+}
